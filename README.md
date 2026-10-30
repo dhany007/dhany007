@@ -35,5 +35,3 @@ I build web services and APIs, primarily with **Go** and **Node.js**.
 
 - [GitHub](https://github.com/dhany007)
 - [LinkedIn](https://www.linkedin.com/in/dhany-aritonang/)
-
-![Dhany's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhany007&show_icons=true&hide_border=true)
